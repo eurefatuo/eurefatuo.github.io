@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eurefatuo.github.io/sitemap
+Sitemap: https://eurefatuo.github.io/app/sitemap
+Sitemap: https://eurefatuo.github.io/assets/sitemap
+Sitemap: https://eurefatuo.github.io/css/sitemap
+Sitemap: https://eurefatuo.github.io/includes/sitemap
+Sitemap: https://eurefatuo.github.io/item/sitemap
+Sitemap: https://eurefatuo.github.io/src/sitemap
